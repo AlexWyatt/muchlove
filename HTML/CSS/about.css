@@ -1,0 +1,45 @@
+body {
+  background-image: url(pawww.jpg);
+  background-repeat: repeat;
+}
+h1 {
+  color: #BE56CB;
+  font-family: arial black;
+  font-size: 52px;
+  text-shadow: 3px 3px 6px rgba(255,255,255,0.67);
+  text-align: center;
+  padding-top: 0px;
+  padding-bottom: 30px;
+}
+h2 {
+  color: black;
+  font-family: arial black;
+  font-size: 20px;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 0px;
+}
+h3 {
+  font-family: arial black;
+  font-size: 24px;
+  color: #BE56CB;
+  text-align: center;
+  letter-spacing: 0.6px;
+}
+p {
+font-family: arial black;
+font-size: 14px;
+text-align: center;
+word-spacing: 1.2px;
+}
+*{
+  box-sizing: border-box;
+}
+.column {
+width: 33%;
+display:inline-block;
+vertical-align: top;
+padding: 5px;
+}
+.row {width:100%}
+}
